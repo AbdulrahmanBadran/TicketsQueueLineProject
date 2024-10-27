@@ -1,0 +1,3 @@
+﻿  ticketQueue.cpp
+C:\Users\OsamaNaser\source\repos\ticketQueue\ticketQueue\ticketsQueue.h(129,33): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  ticketQueue.vcxproj -> C:\Users\OsamaNaser\source\repos\ticketQueue\x64\Debug\ticketQueue.exe
